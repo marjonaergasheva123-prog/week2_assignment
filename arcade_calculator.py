@@ -37,4 +37,5 @@ print("===Game Summary===")
 print(f"Subtotal: {total}$")
 print(f"Token Bonus Credit:{special_offer}$")
 print(f"Final Total: {final_total}$")
+
 print("Thank you for playing!")
