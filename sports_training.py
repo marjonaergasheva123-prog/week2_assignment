@@ -106,4 +106,5 @@ generate_training_summary('Sam','running', 45, 'high',28 , 65, 155 , 3 )
 # Session 2: “Morgan”, “cycling”, 60 minutes, “medium”, age=35, baseline_hr=70, training_hr=140, training_days=5
 generate_training_summary('Morgan', "cycling" , 60, "medium",35,  70, 140,5)
 # Session 3: “Taylor”, “swimming”, 30 minutes, “low”, age=42, baseline_hr=68, training_hr=95, training_days=7
+
 generate_training_summary('Taylor', 'swimming',30, 'low',42,68,95,7)
